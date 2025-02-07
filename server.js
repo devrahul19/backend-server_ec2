@@ -35,5 +35,5 @@ app.post('/signup', (req, res) => {
 });
 
 app.listen(port, () => {
-  console.log(`Example app listening on EC2-Backend-Server`);
+  console.log(`EA listening on EC2-Backend-Server`);
 });
